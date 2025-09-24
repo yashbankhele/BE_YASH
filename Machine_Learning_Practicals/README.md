@@ -4,7 +4,8 @@ This repository contains practical implementations of Machine Learning concepts 
 
 1️⃣ Feature Transformation – PCA
 
-🎯 Objective: Reduce dimensionality of a wine dataset to capture maximum variance and make it easier to distinguish between red and white wines.
+🎯 Objective:
+Reduce dimensionality of a wine dataset to capture maximum variance and make it easier to distinguish between red and white wines.
 
 📂 Dataset: Wine Dataset
 
@@ -16,11 +17,13 @@ Applied Principal Component Analysis (PCA).
 
 Visualized first 2 principal components to separate wine types.
 
-✅ Outcome: Reduced feature space preserves most variance and simplifies analysis.
+✅ Outcome:
+Reduced feature space preserves most variance and simplifies analysis.
 
 2️⃣ Regression Analysis – Uber Ride Price Prediction
 
-🎯 Objective: Predict Uber ride fares based on pickup and drop-off locations.
+🎯 Objective:
+Predict Uber ride fares based on pickup and drop-off locations.
 
 📂 Dataset: Uber Fares Dataset
 
@@ -36,11 +39,13 @@ Implemented Linear, Ridge, and Lasso Regression.
 
 Evaluated models using R², RMSE, and MAE.
 
-✅ Outcome: Identified the best regression model for fare prediction.
+✅ Outcome:
+Identified the best regression model for fare prediction.
 
 3️⃣ Classification Analysis – SVM for Handwritten Digits
 
-🎯 Objective: Classify handwritten digits (0–9) using Support Vector Machine (SVM).
+🎯 Objective:
+Classify handwritten digits (0–9) using Support Vector Machine (SVM).
 
 📂 Dataset: Built-in sklearn.datasets.load_digits()
 
@@ -54,11 +59,13 @@ Trained SVM with RBF kernel.
 
 Evaluated accuracy using confusion matrix.
 
-✅ Outcome: High accuracy in digit classification, showing SVM effectiveness.
+✅ Outcome:
+High accuracy in digit classification, showing SVM effectiveness.
 
 4️⃣ Clustering Analysis – K-Means on Iris Dataset
 
-🎯 Objective: Group similar flowers using K-Means Clustering.
+🎯 Objective:
+Group similar flowers using K-Means Clustering.
 
 📂 Dataset: Iris Dataset
 
@@ -72,11 +79,13 @@ Determined optimal cluster count using Elbow Method.
 
 Visualized clusters with scatter plots.
 
-✅ Outcome: Flowers clustered effectively, matching species patterns.
+✅ Outcome:
+Flowers clustered effectively, matching species patterns.
 
 5️⃣ Ensemble Learning – Random Forest for Car Safety
 
-🎯 Objective: Predict car safety using Random Forest Classifier.
+🎯 Objective:
+Predict car safety using Random Forest Classifier.
 
 📂 Dataset: Car Evaluation Dataset
 
@@ -88,11 +97,13 @@ Trained Random Forest.
 
 Evaluated with accuracy, precision, and recall.
 
-✅ Outcome: Accurate car safety predictions using ensemble learning.
+✅ Outcome:
+Accurate car safety predictions using ensemble learning.
 
 6️⃣ Reinforcement Learning – Maze Exploration
 
-🎯 Objective: Implement Reinforcement Learning agent to navigate a maze.
+🎯 Objective:
+Implement Reinforcement Learning agent to navigate a maze.
 
 🛠 Implementation:
 
@@ -102,7 +113,8 @@ Applied Q-Learning.
 
 Visualized the learned path.
 
-✅ Outcome: Agent learned optimal path in the maze using rewards and penalties.
+✅ Outcome:
+Agent learned optimal path in the maze using rewards and penalties.
 
 ⚡ Prerequisites
 
@@ -110,4 +122,4 @@ Python 3.8+
 
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-Jupyter Notebook or VS Code (with Python extension)
+IDE: Jupyter Notebook or VS Code (with Python extension)
